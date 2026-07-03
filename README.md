@@ -1,0 +1,2 @@
+# EcoLight-Maestro-Time-Intensity-Adaptive-Street-Light-Automation
+EcoLight Maestro is an LPC2148-based smart street light automation system that controls LEDs using real-time clock (RTC) scheduling and LDR-based ambient light sensing. Street lights turn ON automatically at night when light intensity is low, improving energy efficiency while providing an easy RTC time-setting interface through keypad and LCD.
