@@ -1,5 +1,3 @@
-# EcoLight-Maestro-Time-Intensity-Adaptive-Street-Light-Automation
-EcoLight Maestro is an LPC2148-based smart street light automation system that controls LEDs using real-time clock (RTC) scheduling and LDR-based ambient light sensing. Street lights turn ON automatically at night when light intensity is low, improving energy efficiency while providing an easy RTC time-setting interface through keypad and LCD.
 ## ECOLIGHT MAESTRO – TIME & INTENSITY ADAPTIVE STREET LIGHT AUTOMATION
 Overview
 
@@ -11,25 +9,26 @@ EcoLight Maestro is an embedded system project developed using the LPC2148 ARM7 
 * RTC-based time scheduling
 * LDR-based light intensity monitoring
 * Energy-efficient operation
-Real-time date and time display on LCD
-RTC editing through keypad interface
-External interrupt-based configuration mode
-User-friendly LCD menu system
-Embedded C implementation
-Hardware Components
-LPC2148 ARM7 Microcontroller
-16×2 LCD Display
-Matrix Keypad
-LDR (Light Dependent Resistor)
-LEDs (Street Light Simulation)
-Buzzer
-Push Button Switch (Interrupt)
-Power Supply Circuit
-Connecting Wires and PCB
-Software Used
-Embedded C
-Keil uVision
-Flash Magic
+* Real-time date and time display on LCD
+* RTC editing through keypad interface
+* External interrupt-based configuration mode
+* User-friendly LCD menu system
+* Embedded C implementation
+* Hardware Components
+* LPC2148 ARM7 Microcontroller
+* 16×2 LCD Display
+* Matrix Keypad
+* LDR (Light Dependent Resistor)
+* LEDs (Street Light Simulation)
+* Buzzer
+* Push Button Switch (Interrupt)
+* Power Supply Circuit
+* Connecting Wires and PCB
+  
+## Software Used
+* Embedded C
+* Keil uVision
+* Flash Magic
 
 ## Working Principle
 
@@ -41,19 +40,20 @@ An external interrupt mechanism allows the user to enter RTC configuration mode.
 
 ## Advantages
 
-Reduces power consumption
-Minimizes manual intervention
-Improves street lighting efficiency
-Supports accurate time-based control
-Easy RTC configuration and maintenance
-Cost-effective smart lighting solution
-Applications
-Smart Street Lighting Systems
-Residential Colonies
-Highways and Roads
-Campus Lighting
-Industrial Premises
-Energy Conservation Projects
+* Reduces power consumption
+* Minimizes manual intervention
+* Improves street lighting efficiency
+* Supports accurate time-based control
+* Easy RTC configuration and maintenance
+* Cost-effective smart lighting solution
+* Applications
+* Smart Street Lighting Systems
+* Residential Colonies
+* Highways and Roads
+* Campus Lighting
+* Industrial Premises
+* Energy Conservation Projects
+* 
 ## Demo image
 <img width="1918" height="1021" alt="Screenshot 2026-07-06 175330" src="https://github.com/user-attachments/assets/a3adb717-f4ce-4dea-8aa5-fac331d7957b" />
 
