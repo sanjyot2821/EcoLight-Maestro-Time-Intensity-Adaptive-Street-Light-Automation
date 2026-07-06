@@ -53,7 +53,7 @@ An external interrupt mechanism allows the user to enter RTC configuration mode.
 * Campus Lighting
 * Industrial Premises
 * Energy Conservation Projects
-* 
+  
 ## Demo image
 <img width="1918" height="1021" alt="Screenshot 2026-07-06 175330" src="https://github.com/user-attachments/assets/a3adb717-f4ce-4dea-8aa5-fac331d7957b" />
 
