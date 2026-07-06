@@ -7,7 +7,7 @@ EcoLight Maestro is an embedded system project developed using the LPC2148 ARM7 
 
 ## Features
 
-Automatic street light control
+*Automatic street light control
 RTC-based time scheduling
 LDR-based light intensity monitoring
 Energy-efficient operation
